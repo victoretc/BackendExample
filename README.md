@@ -42,8 +42,10 @@ export FLASK_APP=main.py
 Create and activate the virtual environment (optional): If you are using a virtual environment, you need to activate it before running the Flask app. You can activate the virtual environment by running the following command:
 
 For MAC
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
 Install requirements.txt file
 For MAC
